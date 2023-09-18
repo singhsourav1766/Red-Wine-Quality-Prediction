@@ -1,13 +1,2 @@
 # Red-Wine-Quality-Prediction
-Table of Contents
-Project Overview
-Dataset
-Dependencies
-Usage
-Data Preprocessing
-Feature Selection
-Model Selection
-Evaluation
-Deployment
-Contributing
-License
+This machine learning project aims to predict the quality of red wine based on various chemical properties. Wine quality is a complex sensory attribute that is typically rated on a scale from 1 to 10, with higher values indicating better quality. By building a predictive model, we can help wine producers and enthusiasts assess and improve the quality of their wines.
